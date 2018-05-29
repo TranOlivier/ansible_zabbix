@@ -1,0 +1,2 @@
+
+centos_test ansible_host=10.94.69.17 ansible_user=olivier ansible_ssh_private_key_file=/home/stagiaire/.ssh/id_rsa
